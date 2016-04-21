@@ -1,0 +1,8 @@
+
+<snippet>
+  <content><![CDATA[
+include "${1:inclde}"
+]]></content>
+  <tabTrigger>tincl</tabTrigger>
+  <scope>source.thrift</scope>
+</snippet>

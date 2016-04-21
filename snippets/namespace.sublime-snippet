@@ -1,0 +1,9 @@
+
+<snippet>
+  <content><![CDATA[
+namespace py gen.thrift.${1:module}.${2:spec}
+namespace java com.oscar.thrift.${1:module}.${2:spec}
+]]></content>
+  <tabTrigger>tname</tabTrigger>
+  <scope>source.thrift</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+enum ${1:Name} {
+    ${2:KEY},
+    ${3:KEY},
+    ${4:KEY with value} = ${5:value}
+}
+]]></content>
+  <tabTrigger>tenum</tabTrigger>
+  <scope>source.thrift</scope>
+</snippet>
