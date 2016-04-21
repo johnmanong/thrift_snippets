@@ -9,6 +9,6 @@ ${1:return_type} ${2:methodName}(
     2: ${9:exp_type} ${10:exp_name},
 );
 ]]></content>
-  <tabTrigger>tservice</tabTrigger>
+  <tabTrigger>tservice_method</tabTrigger>
   <scope>source.thrift</scope>
 </snippet>
