@@ -2,8 +2,8 @@
 <snippet>
   <content><![CDATA[
 ${1:return_type} ${2:methodName}(
-    1: ${3:arg type} ${4:arg name},
-    2: ${5:arg type} ${6:arg name},
+    1: ${3:arg_type} ${4:arg_name},
+    2: ${5:arg_type} ${6:arg_name},
 ) throws (
     1: ${7:exp_type} ${8:exp_name},
     2: ${9:exp_type} ${10:exp_name},
