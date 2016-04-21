@@ -1,0 +1,10 @@
+
+<snippet>
+  <content><![CDATA[
+exception ${1:Name} {
+    1: optional ${2:type} ${3:arg},
+}
+]]></content>
+  <tabTrigger>tconst</tabTrigger>
+  <scope>source.thrift</scope>
+</snippet>
