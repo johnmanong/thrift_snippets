@@ -2,12 +2,12 @@
 <snippet>
   <content><![CDATA[
 service ${1:ServiceName} {
-    ${2:return type} ${3:methodName}(
-        1: ${4:arg type} ${5:arg name},
-        2: ${6:arg type} ${7:arg name},
+    ${2:return_type} ${3:methodName}(
+        1: ${4:arg_type} ${5:arg_name},
+        2: ${6:arg_type} ${7:arg_name},
     ) throws (
-        1: ${8:exp type} ${9:exp name},
-        2: ${10:exp type} ${11:exp name},
+        1: ${8:exp_type} ${9:exp_name},
+        2: ${10:exp_type} ${11:exp_name},
     );
 }
 ]]></content>

@@ -3,7 +3,7 @@
 enum ${1:Name} {
     ${2:KEY},
     ${3:KEY},
-    ${4:KEY with value} = ${5:value}
+    ${4:KEY_WITH_VALUE} = ${5:value}
 }
 ]]></content>
   <tabTrigger>tenum</tabTrigger>

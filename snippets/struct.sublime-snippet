@@ -1,9 +1,9 @@
 <snippet>
   <content><![CDATA[
 struct ${1:Name} {
-    1: optional ${2: type} ${3:attribute}
-    2: optional ${4: type} ${5:attribute}
-    3: optional ${6: type} ${7:attribute with default} = ${8: default value}
+    1: optional ${2:type} ${3:attribute}
+    2: optional ${4:type} ${5:attribute}
+    3: optional ${6:type} ${7:attribute_with_default} = ${8:default_value}
 }
 ]]></content>
   <tabTrigger>tstruct</tabTrigger>
